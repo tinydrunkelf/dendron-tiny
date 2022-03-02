@@ -85,7 +85,7 @@ publishing:
     siteUrl: 'https://tinydrunkelf.github.io'
     assetsPrefix: '/dendron-tiny'
     seo:
-        title: TinyDrunkElf GME GameStop
+        title: SuperStonkODex GME GameStop
         description: Brain cells looking for a connection
     github:
         enableEditLink: true

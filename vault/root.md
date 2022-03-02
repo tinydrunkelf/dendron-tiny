@@ -1,10 +1,10 @@
 ---
 id: 6lcyer76k269vga1shbjgqm
-title: Root
+title: SuperStonkODex
 desc: ''
-updated: 1646242481655
+updated: 1646249462929
 created: 1646089977308
 ---
-# Welcome to TinyDrunkElf's Dendron
+# Welcome to SuperStonkODex
 
-I like the stonk.
+We like the stonk.
