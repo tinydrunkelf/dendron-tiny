@@ -1,0 +1,11 @@
+{
+    "name": "dendron-tiny",
+    "version": "0.0.1",
+    "main": "",
+    "repository": "",
+    "author": "tinydrunkelf",
+    "license": "MIT",
+    "dependencies": {
+      "@dendronhq/dendron-cli": "*"
+    }
+}
