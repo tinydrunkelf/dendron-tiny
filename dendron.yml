@@ -82,9 +82,10 @@ publishing:
         - root
     writeStubs: false
     siteRootDir: docs
+    siteUrl: 'https://tinydrunkelf.github.io'
     seo:
-        title: Dendron
-        description: Personal Knowledge Space
+        title: TinyDrunkElf GME GameStop
+        description: Brain cells looking for a connection
     github:
         enableEditLink: true
         editLinkText: Edit this page on GitHub
@@ -99,3 +100,7 @@ publishing:
         action: useVault
         payload:
             - vault
+site:
+    siteUrl: 'https://tinydrunkelf.github.io'
+    siteRootDir: docs
+    assetsPrefix: '/dendron-tiny'
