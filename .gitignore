@@ -1,0 +1,14 @@
+# git
+.gitconfig
+
+# node
+node_modules
+.dendron.*
+build
+seeds
+.next
+pods/service-connections
+
+# editor
+.vscode
+
