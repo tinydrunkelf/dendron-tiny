@@ -2,15 +2,16 @@
 id: nzeyp5c58k7fiksz2e75jrr
 title: Cede and Co.
 desc: ''
-updated: 1647185849142
+updated: 1647187130617
 created: 1647185845594
 ---
 
-## info
-- https://smithonstocks.com/part-8-illegal-naked-shorting-series-who-or-what-is-cede-and-what-role-does-cede-play-in-the-trading-of-stocks/
-    - ownership of shares
-        > You Really Don’t Own the Shares that Appear in Your Brokerage Account; They Belong to Cede
-    - who is?
-        > Cede is a subsidiary of the Depository Trust Company (DTC) which is a subsidiary of the Depository Trust and Clearing Corporation (DTCC) and the DTCC is a private company owned by elite Wall Street firms and money center banks.
+## questions
+- what is Cede and Co.?
+- what is the role of Cede and Co.?
+- who owns Cede and Co.?
+- who governs Cede and Co.?
 
-        - [[market.org.dtc]]
+
+## thoughts Cede and Co.
+- [[market.articles.smithonstocks.part-8-illegal-naked-shorting]] - has explanation of Cede and Co.
