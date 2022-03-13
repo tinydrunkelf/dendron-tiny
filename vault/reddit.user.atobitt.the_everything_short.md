@@ -1,8 +1,8 @@
 ---
 id: 08y3480e2sup0swp4dn7mtv
-title: The Everything Short
+title: The Everything Short -- u/atobitt
 desc: ''
-updated: 1647185998388
+updated: 1647187371962
 created: 1647185994395
 ---
 https://www.reddit.com/r/GME/comments/mgucv2/the_everything_short/

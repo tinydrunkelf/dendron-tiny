@@ -1,8 +1,8 @@
 ---
 id: 9qrbaqc61q0lngpoenupqee
-title: A House of Cards (part 1)
+title: A House of Cards (part 1) -- u/atobitt
 desc: ''
-updated: 1647185987657
+updated: 1647187393477
 created: 1647185983642
 ---
 https://www.reddit.com/r/Superstonk/comments/mvk5dv/a_house_of_cards_part_1/

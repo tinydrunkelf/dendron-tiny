@@ -1,8 +1,8 @@
 ---
 id: fzpxum0pkku4dg0aimexck1
-title: u/atobitt -- The Smoking Gun
+title: The Smoking Gun -- u/atobitt 
 desc: ''
-updated: 1647186010594
+updated: 1647187383794
 created: 1647186006098
 ---
 https://www.reddit.com/r/Superstonk/comments/tb92al/the_smoking_gun/

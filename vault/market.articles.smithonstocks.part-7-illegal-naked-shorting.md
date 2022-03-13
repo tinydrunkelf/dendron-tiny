@@ -1,8 +1,8 @@
 ---
 id: 081alfl0f3tivrznraj00n5
-title: Part 7 Illegal Naked Shorting
+title: Part 7 Illegal Naked Shorting -- SmithOnStocks
 desc: ''
-updated: 1647185803801
+updated: 1647187417194
 created: 1647185799204
 ---
 
