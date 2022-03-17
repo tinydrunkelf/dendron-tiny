@@ -35,6 +35,9 @@
 - Set a reference to the private ssh key, register public key with GitHub
      - <https://dev.to/web3coach/how-to-configure-a-local-git-repository-to-use-a-specific-ssh-key-4aml>
     - <https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent#adding-your-ssh-key-to-the-ssh-agent>
+- may need to add key after closing terminal
+    - `eval "$(ssh-agent -s)"`
+	- `ssh-add ~/.ssh/id_ed25519`
 
 ### More info on `git` `[includes]`
 - <https://blog.thomasheartman.com/posts/modularizing-your-git-config-with-conditional-includes/>
