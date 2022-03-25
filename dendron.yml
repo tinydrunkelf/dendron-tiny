@@ -85,7 +85,7 @@ publishing:
     siteUrl: 'https://tinydrunkelf.github.io'
     assetsPrefix: '/dendron-tiny'
     seo:
-        title: SuperStonkODex GME GameStop
+        title: SuperStonk-o-dex GME GameStop
         description: Brain cells looking for a connection
     github:
         enableEditLink: true
@@ -102,6 +102,6 @@ publishing:
         payload:
             - vault
 site:
-    siteUrl: 'https://tinydrunkelf.github.io'
+    siteUrl: 'https://tinydrunkelf.github.io/dendron-tiny'
     siteRootDir: docs
     assetsPrefix: '/dendron-tiny'

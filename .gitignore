@@ -12,3 +12,5 @@ pods/service-connections
 # editor
 .vscode
 
+# development
+.next
