@@ -1,0 +1,1988 @@
+{
+  "notes": {
+    "403": {
+      "vault": {
+        "fsPath": "vault"
+      },
+      "fname": "403",
+      "id": "403",
+      "title": "This page has not yet sprouted",
+      "schemaStub": false,
+      "type": "note",
+      "updated": 1674172086585,
+      "created": 1674172086585,
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": null,
+      "data": {}
+    },
+    "6lcyer76k269vga1shbjgqm": {
+      "id": "6lcyer76k269vga1shbjgqm",
+      "title": "SuperStonk-o-dex",
+      "desc": "",
+      "updated": 1648244499199,
+      "created": 1646089977308,
+      "custom": {
+        "nav_order": 0,
+        "permalink": "/"
+      },
+      "fname": "root",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "695eeb6141177c579b0dc3b1d621aead",
+      "links": [],
+      "anchors": {
+        "what-is-superstonk-o-dex": {
+          "type": "header",
+          "text": "What is SuperStonk-o-dex?",
+          "value": "what-is-superstonk-o-dex",
+          "line": 7,
+          "column": 0,
+          "depth": 2
+        },
+        "frequently-asked-questions-faqs": {
+          "type": "header",
+          "text": "Frequently asked questions (FAQs)",
+          "value": "frequently-asked-questions-faqs",
+          "line": 19,
+          "column": 0,
+          "depth": 2
+        },
+        "the-original-thesis": {
+          "type": "header",
+          "text": "The original thesis",
+          "value": "the-original-thesis",
+          "line": 21,
+          "column": 0,
+          "depth": 2
+        },
+        "where-we-are-now": {
+          "type": "header",
+          "text": "Where we are now",
+          "value": "where-we-are-now",
+          "line": 23,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [
+        "us8zzgjebz77i7cpq84en1a",
+        "mdt39i0j2q0t3o1if2ix4p2",
+        "m3lwl2ff6f5b310lg2zer5h"
+      ],
+      "parent": null,
+      "data": {}
+    },
+    "m3lwl2ff6f5b310lg2zer5h": {
+      "fname": "reddit",
+      "stub": true,
+      "vault": {
+        "fsPath": "vault"
+      },
+      "schemaStub": false,
+      "type": "note",
+      "updated": 1674172086510,
+      "created": 1674172086510,
+      "id": "m3lwl2ff6f5b310lg2zer5h",
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "25yxns5f80n3wxg3fnuaaev"
+      ],
+      "parent": "6lcyer76k269vga1shbjgqm",
+      "data": {},
+      "title": "Reddit"
+    },
+    "25yxns5f80n3wxg3fnuaaev": {
+      "fname": "reddit.user",
+      "stub": true,
+      "vault": {
+        "fsPath": "vault"
+      },
+      "schemaStub": false,
+      "type": "note",
+      "updated": 1674172086510,
+      "created": 1674172086510,
+      "id": "25yxns5f80n3wxg3fnuaaev",
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "i07as6off8owdx0ok1lo9lm",
+        "7nggcvcazsazsjlwxb8hgdr"
+      ],
+      "parent": "m3lwl2ff6f5b310lg2zer5h",
+      "data": {},
+      "title": "User"
+    },
+    "7nggcvcazsazsjlwxb8hgdr": {
+      "fname": "reddit.user.atobitt",
+      "stub": true,
+      "vault": {
+        "fsPath": "vault"
+      },
+      "schemaStub": false,
+      "type": "note",
+      "updated": 1674172086513,
+      "created": 1674172086513,
+      "id": "7nggcvcazsazsjlwxb8hgdr",
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "9qrbaqc61q0lngpoenupqee",
+        "08y3480e2sup0swp4dn7mtv",
+        "fzpxum0pkku4dg0aimexck1"
+      ],
+      "parent": "25yxns5f80n3wxg3fnuaaev",
+      "data": {},
+      "title": "Atobitt"
+    },
+    "fzpxum0pkku4dg0aimexck1": {
+      "id": "fzpxum0pkku4dg0aimexck1",
+      "title": "The Smoking Gun -- u/atobitt",
+      "desc": "",
+      "updated": 1647187383794,
+      "created": 1647186006098,
+      "custom": {},
+      "fname": "reddit.user.atobitt.the_smoking_gun",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "f3326521b1484693855ce1e2d92b2077",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "reddit.user.atobitt.the_smoking_gun",
+            "id": "fzpxum0pkku4dg0aimexck1",
+            "vaultName": "vault"
+          },
+          "value": "market.people.ihor_dusaniwsky",
+          "alias": "market.people.ihor_dusaniwsky",
+          "position": {
+            "start": {
+              "line": 8,
+              "column": 32,
+              "offset": 324
+            },
+            "end": {
+              "line": 8,
+              "column": 65,
+              "offset": 357
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "market.people.ihor_dusaniwsky"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "reddit.user.atobitt.the_smoking_gun",
+            "id": "fzpxum0pkku4dg0aimexck1",
+            "vaultName": "vault"
+          },
+          "value": "market.definitions.synthetic_long",
+          "alias": "market.definitions.synthetic_long",
+          "position": {
+            "start": {
+              "line": 10,
+              "column": 3,
+              "offset": 642
+            },
+            "end": {
+              "line": 10,
+              "column": 40,
+              "offset": 679
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "market.definitions.synthetic_long"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "reddit.user.atobitt.the_smoking_gun",
+            "id": "fzpxum0pkku4dg0aimexck1",
+            "vaultName": "vault"
+          },
+          "value": "reddit.user.atobitt.house_of_cards",
+          "alias": "reddit.user.atobitt.house_of_cards",
+          "position": {
+            "start": {
+              "line": 12,
+              "column": 29,
+              "offset": 967
+            },
+            "end": {
+              "line": 12,
+              "column": 67,
+              "offset": 1005
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "reddit.user.atobitt.house_of_cards"
+          }
+        }
+      ],
+      "anchors": {
+        "notes": {
+          "type": "header",
+          "text": "notes:",
+          "value": "notes",
+          "line": 13,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "7nggcvcazsazsjlwxb8hgdr",
+      "data": {}
+    },
+    "08y3480e2sup0swp4dn7mtv": {
+      "id": "08y3480e2sup0swp4dn7mtv",
+      "title": "The Everything Short -- u/atobitt",
+      "desc": "",
+      "updated": 1647187371962,
+      "created": 1647185994395,
+      "custom": {},
+      "fname": "reddit.user.atobitt.the_everything_short",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "4067ee75b633029e1237a65b7552eaf4",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "7nggcvcazsazsjlwxb8hgdr",
+      "data": {}
+    },
+    "9qrbaqc61q0lngpoenupqee": {
+      "id": "9qrbaqc61q0lngpoenupqee",
+      "title": "A House of Cards (part 1) -- u/atobitt",
+      "desc": "",
+      "updated": 1647187393477,
+      "created": 1647185983642,
+      "custom": {},
+      "fname": "reddit.user.atobitt.house_of_cards",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "434baa138f3385b4c30dd7fd51c0c1bf",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "reddit.user.atobitt.house_of_cards",
+            "id": "9qrbaqc61q0lngpoenupqee",
+            "vaultName": "vault"
+          },
+          "value": "market.org.dtcc.rules.sr-dtc-2003-02",
+          "alias": "market.org.dtcc.rules.sr-dtc-2003-02",
+          "position": {
+            "start": {
+              "line": 8,
+              "column": 29,
+              "offset": 675
+            },
+            "end": {
+              "line": 8,
+              "column": 69,
+              "offset": 715
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "market.org.dtcc.rules.sr-dtc-2003-02"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "reddit.user.atobitt.house_of_cards",
+            "id": "9qrbaqc61q0lngpoenupqee",
+            "vaultName": "vault"
+          },
+          "value": "market.org.cede_and_co",
+          "alias": "market.org.cede_and_co",
+          "position": {
+            "start": {
+              "line": 14,
+              "column": 15,
+              "offset": 1105
+            },
+            "end": {
+              "line": 14,
+              "column": 41,
+              "offset": 1131
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "market.org.cede_and_co"
+          }
+        },
+        {
+          "from": {
+            "fname": "reddit.user.atobitt.the_smoking_gun",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 12,
+              "column": 29,
+              "offset": 967
+            },
+            "end": {
+              "line": 12,
+              "column": 67,
+              "offset": 1005
+            },
+            "indent": []
+          },
+          "value": "reddit.user.atobitt.house_of_cards",
+          "alias": "reddit.user.atobitt.house_of_cards"
+        }
+      ],
+      "anchors": {
+        "notes": {
+          "type": "header",
+          "text": "notes:",
+          "value": "notes",
+          "line": 13,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "7nggcvcazsazsjlwxb8hgdr",
+      "data": {}
+    },
+    "i07as6off8owdx0ok1lo9lm": {
+      "id": "i07as6off8owdx0ok1lo9lm",
+      "title": "Welp007",
+      "desc": "",
+      "updated": 1674171490783,
+      "created": 1674171490783,
+      "custom": {},
+      "fname": "reddit.user.welp007",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "5637931379f6a85f1c43665e81f3a760",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "ifvyede4pl1s5acflf5m69a"
+      ],
+      "parent": "25yxns5f80n3wxg3fnuaaev",
+      "data": {}
+    },
+    "ifvyede4pl1s5acflf5m69a": {
+      "id": "ifvyede4pl1s5acflf5m69a",
+      "title": "Rostin Benham personally involved in FTX from the start",
+      "desc": "",
+      "updated": 1674171887108,
+      "created": 1674171522762,
+      "custom": {},
+      "fname": "reddit.user.welp007.rostin_benham_ftx",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "26a74a6aa52a15a55622e069524a0909",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "reddit.user.welp007.rostin_benham_ftx",
+            "id": "ifvyede4pl1s5acflf5m69a",
+            "vaultName": "vault"
+          },
+          "value": "market.people.rostin_benham",
+          "alias": "market.people.rostin_benham",
+          "position": {
+            "start": {
+              "line": 11,
+              "column": 3,
+              "offset": 472
+            },
+            "end": {
+              "line": 11,
+              "column": 34,
+              "offset": 503
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "market.people.rostin_benham"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "reddit.user.welp007.rostin_benham_ftx",
+            "id": "ifvyede4pl1s5acflf5m69a",
+            "vaultName": "vault"
+          },
+          "value": "market.org.ctfc",
+          "alias": "market.org.ctfc",
+          "position": {
+            "start": {
+              "line": 12,
+              "column": 3,
+              "offset": 506
+            },
+            "end": {
+              "line": 12,
+              "column": 22,
+              "offset": 525
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "market.org.ctfc"
+          }
+        }
+      ],
+      "anchors": {
+        "post": {
+          "type": "header",
+          "text": "Post:",
+          "value": "post",
+          "line": 9,
+          "column": 0,
+          "depth": 2
+        },
+        "related": {
+          "type": "header",
+          "text": "Related",
+          "value": "related",
+          "line": 16,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "i07as6off8owdx0ok1lo9lm",
+      "data": {}
+    },
+    "mdt39i0j2q0t3o1if2ix4p2": {
+      "fname": "market",
+      "stub": true,
+      "vault": {
+        "fsPath": "vault"
+      },
+      "schemaStub": false,
+      "type": "note",
+      "updated": 1674172086507,
+      "created": 1674172086507,
+      "id": "mdt39i0j2q0t3o1if2ix4p2",
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "gb4gsuew3xe4rgp8irhxqbw",
+        "g3h7xswu9c84b2bdwavyzjg",
+        "zc1mtgy2z6q7e71kfklotu5",
+        "gm19tt1sjkyyizwmq6t92nk",
+        "umk7cwy5yd1inrdqwh9jczj",
+        "d3g4066yq46abe7e0d0xszg"
+      ],
+      "parent": "6lcyer76k269vga1shbjgqm",
+      "data": {},
+      "title": "Market"
+    },
+    "d3g4066yq46abe7e0d0xszg": {
+      "fname": "market.gme",
+      "stub": true,
+      "vault": {
+        "fsPath": "vault"
+      },
+      "schemaStub": false,
+      "type": "note",
+      "updated": 1674172086512,
+      "created": 1674172086512,
+      "id": "d3g4066yq46abe7e0d0xszg",
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "0mh7iw5dl6efxi4x6mdxrof"
+      ],
+      "parent": "mdt39i0j2q0t3o1if2ix4p2",
+      "data": {},
+      "title": "Gme"
+    },
+    "0mh7iw5dl6efxi4x6mdxrof": {
+      "fname": "market.gme.theory",
+      "stub": true,
+      "vault": {
+        "fsPath": "vault"
+      },
+      "schemaStub": false,
+      "type": "note",
+      "updated": 1674172086512,
+      "created": 1674172086512,
+      "id": "0mh7iw5dl6efxi4x6mdxrof",
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "ekdlfg1bfzfnay503dgvjcr",
+        "31pliovif8r6yixz6a0ab24"
+      ],
+      "parent": "d3g4066yq46abe7e0d0xszg",
+      "data": {},
+      "title": "Theory"
+    },
+    "31pliovif8r6yixz6a0ab24": {
+      "id": "31pliovif8r6yixz6a0ab24",
+      "title": "GME Short Interest",
+      "desc": "",
+      "updated": 1647185824767,
+      "created": 1647185820686,
+      "custom": {},
+      "fname": "market.gme.theory.shortinterest",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "8c7cc6e920a0a749556100a6ea58c6e9",
+      "links": [],
+      "anchors": {
+        "short-interest-calculations": {
+          "type": "header",
+          "text": "Short Interest Calculations",
+          "value": "short-interest-calculations",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "0mh7iw5dl6efxi4x6mdxrof",
+      "data": {}
+    },
+    "ekdlfg1bfzfnay503dgvjcr": {
+      "id": "ekdlfg1bfzfnay503dgvjcr",
+      "title": "Naked Short",
+      "desc": "",
+      "updated": 1646090424789,
+      "created": 1646090224751,
+      "custom": {},
+      "fname": "market.gme.theory.nakedshort",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "b21095005914978674c81069615cc8d3",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "0mh7iw5dl6efxi4x6mdxrof",
+      "data": {}
+    },
+    "umk7cwy5yd1inrdqwh9jczj": {
+      "fname": "market.articles",
+      "stub": true,
+      "vault": {
+        "fsPath": "vault"
+      },
+      "schemaStub": false,
+      "type": "note",
+      "updated": 1674172086511,
+      "created": 1674172086511,
+      "id": "umk7cwy5yd1inrdqwh9jczj",
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "v6dxkvwuwag9tiwi9tv3ry7"
+      ],
+      "parent": "mdt39i0j2q0t3o1if2ix4p2",
+      "data": {},
+      "title": "Articles"
+    },
+    "v6dxkvwuwag9tiwi9tv3ry7": {
+      "fname": "market.articles.smithonstocks",
+      "stub": true,
+      "vault": {
+        "fsPath": "vault"
+      },
+      "schemaStub": false,
+      "type": "note",
+      "updated": 1674172086511,
+      "created": 1674172086511,
+      "id": "v6dxkvwuwag9tiwi9tv3ry7",
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "081alfl0f3tivrznraj00n5",
+        "0per98y8zsx83kqj4lmmt6f"
+      ],
+      "parent": "umk7cwy5yd1inrdqwh9jczj",
+      "data": {},
+      "title": "Smithonstocks"
+    },
+    "0per98y8zsx83kqj4lmmt6f": {
+      "id": "0per98y8zsx83kqj4lmmt6f",
+      "title": "Part 8 Illegal Naked Shorting -- SmithOnStocks",
+      "desc": "",
+      "updated": 1647187410121,
+      "created": 1647187034886,
+      "custom": {},
+      "fname": "market.articles.smithonstocks.part-8-illegal-naked-shorting",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "38c6d2b029e55a211eab979fbf2c64b8",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "market.articles.smithonstocks.part-8-illegal-naked-shorting",
+            "id": "0per98y8zsx83kqj4lmmt6f",
+            "vaultName": "vault"
+          },
+          "value": "market.org.cede_and_co",
+          "alias": "market.org.cede_and_co",
+          "position": {
+            "start": {
+              "line": 7,
+              "column": 3,
+              "offset": 272
+            },
+            "end": {
+              "line": 7,
+              "column": 29,
+              "offset": 298
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "market.org.cede_and_co"
+          }
+        },
+        {
+          "from": {
+            "fname": "market.org.cede_and_co",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 10,
+              "column": 3,
+              "offset": 156
+            },
+            "end": {
+              "line": 10,
+              "column": 66,
+              "offset": 219
+            },
+            "indent": []
+          },
+          "value": "market.articles.smithonstocks.part-8-illegal-naked-shorting",
+          "alias": "market.articles.smithonstocks.part-8-illegal-naked-shorting"
+        }
+      ],
+      "anchors": {
+        "quotes": {
+          "type": "header",
+          "text": "quotes:",
+          "value": "quotes",
+          "line": 10,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "v6dxkvwuwag9tiwi9tv3ry7",
+      "data": {}
+    },
+    "081alfl0f3tivrznraj00n5": {
+      "id": "081alfl0f3tivrznraj00n5",
+      "title": "Part 7 Illegal Naked Shorting -- SmithOnStocks",
+      "desc": "",
+      "updated": 1647187417194,
+      "created": 1647185799204,
+      "custom": {},
+      "fname": "market.articles.smithonstocks.part-7-illegal-naked-shorting",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "546e710afcc92592e541d2cd5034a77c",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "market.articles.smithonstocks.part-7-illegal-naked-shorting",
+            "id": "081alfl0f3tivrznraj00n5",
+            "vaultName": "vault"
+          },
+          "value": "market.org.dtcc",
+          "alias": "market.org.dtcc",
+          "position": {
+            "start": {
+              "line": 5,
+              "column": 17,
+              "offset": 200
+            },
+            "end": {
+              "line": 5,
+              "column": 36,
+              "offset": 219
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "market.org.dtcc"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "market.articles.smithonstocks.part-7-illegal-naked-shorting",
+            "id": "081alfl0f3tivrznraj00n5",
+            "vaultName": "vault"
+          },
+          "value": "market.org.dtc",
+          "alias": "market.org.dtc",
+          "position": {
+            "start": {
+              "line": 7,
+              "column": 17,
+              "offset": 559
+            },
+            "end": {
+              "line": 7,
+              "column": 35,
+              "offset": 577
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "market.org.dtc"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "market.articles.smithonstocks.part-7-illegal-naked-shorting",
+            "id": "081alfl0f3tivrznraj00n5",
+            "vaultName": "vault"
+          },
+          "value": "market.org.nscc",
+          "alias": "market.org.nscc",
+          "position": {
+            "start": {
+              "line": 9,
+              "column": 17,
+              "offset": 806
+            },
+            "end": {
+              "line": 9,
+              "column": 36,
+              "offset": 825
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "market.org.nscc"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "market.articles.smithonstocks.part-7-illegal-naked-shorting",
+            "id": "081alfl0f3tivrznraj00n5",
+            "vaultName": "vault"
+          },
+          "value": "market.theory.synthetic-counterfeit-shares",
+          "alias": "market.theory.synthetic-counterfeit-shares",
+          "position": {
+            "start": {
+              "line": 15,
+              "column": 3,
+              "offset": 1830
+            },
+            "end": {
+              "line": 15,
+              "column": 49,
+              "offset": 1876
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "market.theory.synthetic-counterfeit-shares"
+          }
+        },
+        {
+          "from": {
+            "fname": "market.org.dtc",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 10,
+              "column": 3,
+              "offset": 125
+            },
+            "end": {
+              "line": 10,
+              "column": 66,
+              "offset": 188
+            },
+            "indent": []
+          },
+          "value": "market.articles.smithonstocks.part-7-illegal-naked-shorting",
+          "alias": "market.articles.smithonstocks.part-7-illegal-naked-shorting"
+        },
+        {
+          "from": {
+            "fname": "market.org.dtcc",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 9,
+              "column": 3,
+              "offset": 129
+            },
+            "end": {
+              "line": 9,
+              "column": 66,
+              "offset": 192
+            },
+            "indent": []
+          },
+          "value": "market.articles.smithonstocks.part-7-illegal-naked-shorting",
+          "alias": "market.articles.smithonstocks.part-7-illegal-naked-shorting"
+        }
+      ],
+      "anchors": {
+        "quotes": {
+          "type": "header",
+          "text": "quotes:",
+          "value": "quotes",
+          "line": 10,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "v6dxkvwuwag9tiwi9tv3ry7",
+      "data": {}
+    },
+    "gm19tt1sjkyyizwmq6t92nk": {
+      "fname": "market.theory",
+      "stub": true,
+      "vault": {
+        "fsPath": "vault"
+      },
+      "schemaStub": false,
+      "type": "note",
+      "updated": 1674172086509,
+      "created": 1674172086509,
+      "id": "gm19tt1sjkyyizwmq6t92nk",
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "nrjh5t7vajey4qk9r77xlie"
+      ],
+      "parent": "mdt39i0j2q0t3o1if2ix4p2",
+      "data": {},
+      "title": "Theory"
+    },
+    "nrjh5t7vajey4qk9r77xlie": {
+      "id": "nrjh5t7vajey4qk9r77xlie",
+      "title": "Synthetic or Counterfeit Shares",
+      "desc": "",
+      "updated": 1647185780945,
+      "created": 1647185771372,
+      "custom": {},
+      "fname": "market.theory.synthetic-counterfeit-shares",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "dd9105185a9f30668ba189e73dd555f1",
+      "links": [
+        {
+          "from": {
+            "fname": "market.articles.smithonstocks.part-7-illegal-naked-shorting",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 15,
+              "column": 3,
+              "offset": 1830
+            },
+            "end": {
+              "line": 15,
+              "column": 49,
+              "offset": 1876
+            },
+            "indent": []
+          },
+          "value": "market.theory.synthetic-counterfeit-shares",
+          "alias": "market.theory.synthetic-counterfeit-shares"
+        }
+      ],
+      "anchors": {},
+      "children": [],
+      "parent": "gm19tt1sjkyyizwmq6t92nk",
+      "data": {}
+    },
+    "zc1mtgy2z6q7e71kfklotu5": {
+      "fname": "market.people",
+      "stub": true,
+      "vault": {
+        "fsPath": "vault"
+      },
+      "schemaStub": false,
+      "type": "note",
+      "updated": 1674172086509,
+      "created": 1674172086509,
+      "id": "zc1mtgy2z6q7e71kfklotu5",
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "c9m1uid9tcpmfkql9rj01yt",
+        "zxrnycrnt3nvnujvze9uu3p"
+      ],
+      "parent": "mdt39i0j2q0t3o1if2ix4p2",
+      "data": {},
+      "title": "People"
+    },
+    "zxrnycrnt3nvnujvze9uu3p": {
+      "id": "zxrnycrnt3nvnujvze9uu3p",
+      "title": "Rostin Benham",
+      "desc": "",
+      "updated": 1674171858146,
+      "created": 1674171459651,
+      "custom": {},
+      "fname": "market.people.rostin_benham",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "006dd062a2ecb07af12ee2761adda495",
+      "links": [
+        {
+          "from": {
+            "fname": "reddit.user.welp007.rostin_benham_ftx",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 11,
+              "column": 3,
+              "offset": 472
+            },
+            "end": {
+              "line": 11,
+              "column": 34,
+              "offset": 503
+            },
+            "indent": []
+          },
+          "value": "market.people.rostin_benham",
+          "alias": "market.people.rostin_benham"
+        }
+      ],
+      "anchors": {},
+      "children": [],
+      "parent": "zc1mtgy2z6q7e71kfklotu5",
+      "data": {}
+    },
+    "c9m1uid9tcpmfkql9rj01yt": {
+      "id": "c9m1uid9tcpmfkql9rj01yt",
+      "title": "Ihor Dusaniwsky",
+      "desc": "",
+      "updated": 1647185970253,
+      "created": 1647185966520,
+      "custom": {},
+      "fname": "market.people.ihor_dusaniwsky",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "2062efc5a7d01004e543c53cb90f4f8f",
+      "links": [
+        {
+          "from": {
+            "fname": "reddit.user.atobitt.the_smoking_gun",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 8,
+              "column": 32,
+              "offset": 324
+            },
+            "end": {
+              "line": 8,
+              "column": 65,
+              "offset": 357
+            },
+            "indent": []
+          },
+          "value": "market.people.ihor_dusaniwsky",
+          "alias": "market.people.ihor_dusaniwsky"
+        }
+      ],
+      "anchors": {
+        "links": {
+          "type": "header",
+          "text": "links",
+          "value": "links",
+          "line": 7,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "zc1mtgy2z6q7e71kfklotu5",
+      "data": {}
+    },
+    "g3h7xswu9c84b2bdwavyzjg": {
+      "fname": "market.org",
+      "stub": true,
+      "vault": {
+        "fsPath": "vault"
+      },
+      "schemaStub": false,
+      "type": "note",
+      "updated": 1674172086508,
+      "created": 1674172086508,
+      "id": "g3h7xswu9c84b2bdwavyzjg",
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "nzeyp5c58k7fiksz2e75jrr",
+        "0pkt5rekxfszkjgf7o809uz",
+        "dt8yhk43k9jyei02751pp1n",
+        "ljizpq12ka8u6u8lf4qc7my",
+        "ixgjctm8oulfp98sqy56cvd",
+        "n14hk74wzagp3mbq4g1zn7p"
+      ],
+      "parent": "mdt39i0j2q0t3o1if2ix4p2",
+      "data": {},
+      "title": "Org"
+    },
+    "n14hk74wzagp3mbq4g1zn7p": {
+      "fname": "market.org.sec",
+      "stub": true,
+      "vault": {
+        "fsPath": "vault"
+      },
+      "schemaStub": false,
+      "type": "note",
+      "updated": 1674172086513,
+      "created": 1674172086513,
+      "id": "n14hk74wzagp3mbq4g1zn7p",
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "ohc5w3cnqvuqf1u06p97g9q",
+        "9knugf5xjmuvsej5uir8bj5"
+      ],
+      "parent": "g3h7xswu9c84b2bdwavyzjg",
+      "data": {},
+      "title": "Sec"
+    },
+    "9knugf5xjmuvsej5uir8bj5": {
+      "id": "9knugf5xjmuvsej5uir8bj5",
+      "title": "Rules",
+      "desc": "",
+      "updated": 1647186622587,
+      "created": 1647186493614,
+      "custom": {},
+      "fname": "market.org.sec.rules",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "f934262c6b8f3d181075bcd4dd0bf3cf",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "market.org.sec.rules",
+            "id": "9knugf5xjmuvsej5uir8bj5",
+            "vaultName": "vault"
+          },
+          "value": "market.org.dtcc.rules",
+          "alias": "market.org.dtcc.rules",
+          "position": {
+            "start": {
+              "line": 8,
+              "column": 8,
+              "offset": 216
+            },
+            "end": {
+              "line": 8,
+              "column": 33,
+              "offset": 241
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "market.org.dtcc.rules"
+          }
+        }
+      ],
+      "anchors": {
+        "links": {
+          "type": "header",
+          "text": "links",
+          "value": "links",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        },
+        "see-also": {
+          "type": "header",
+          "text": "see also",
+          "value": "see-also",
+          "line": 13,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "n14hk74wzagp3mbq4g1zn7p",
+      "data": {}
+    },
+    "ohc5w3cnqvuqf1u06p97g9q": {
+      "id": "ohc5w3cnqvuqf1u06p97g9q",
+      "title": "Reports",
+      "desc": "",
+      "updated": 1647185939289,
+      "created": 1647185928237,
+      "stub": true,
+      "custom": {
+        "stub": true
+      },
+      "fname": "market.org.sec.reports",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "a448699003d13cf7868257a188bf03c2",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "n14hk74wzagp3mbq4g1zn7p",
+      "data": {}
+    },
+    "ixgjctm8oulfp98sqy56cvd": {
+      "id": "ixgjctm8oulfp98sqy56cvd",
+      "title": "NSCC - National Securities Clearing Corporation",
+      "desc": "",
+      "updated": 1647185915159,
+      "created": 1647185911662,
+      "custom": {},
+      "fname": "market.org.nscc",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "db3901534ab6efa66de0dde2b7b48a13",
+      "links": [
+        {
+          "from": {
+            "fname": "market.articles.smithonstocks.part-7-illegal-naked-shorting",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 9,
+              "column": 17,
+              "offset": 806
+            },
+            "end": {
+              "line": 9,
+              "column": 36,
+              "offset": 825
+            },
+            "indent": []
+          },
+          "value": "market.org.nscc",
+          "alias": "market.org.nscc"
+        }
+      ],
+      "anchors": {},
+      "children": [],
+      "parent": "g3h7xswu9c84b2bdwavyzjg",
+      "data": {}
+    },
+    "ljizpq12ka8u6u8lf4qc7my": {
+      "id": "ljizpq12ka8u6u8lf4qc7my",
+      "title": "DTCC - Depository Trust and Clearing Corporation",
+      "desc": "",
+      "updated": 1647186346712,
+      "created": 1647185883014,
+      "custom": {},
+      "fname": "market.org.dtcc",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "9cbd6846c4ed84b79bfe6d608f68673f",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "market.org.dtcc",
+            "id": "ljizpq12ka8u6u8lf4qc7my",
+            "vaultName": "vault"
+          },
+          "value": "market.articles.smithonstocks.part-7-illegal-naked-shorting",
+          "alias": "market.articles.smithonstocks.part-7-illegal-naked-shorting",
+          "position": {
+            "start": {
+              "line": 9,
+              "column": 3,
+              "offset": 129
+            },
+            "end": {
+              "line": 9,
+              "column": 66,
+              "offset": 192
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "market.articles.smithonstocks.part-7-illegal-naked-shorting"
+          }
+        },
+        {
+          "from": {
+            "fname": "market.articles.smithonstocks.part-7-illegal-naked-shorting",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 5,
+              "column": 17,
+              "offset": 200
+            },
+            "end": {
+              "line": 5,
+              "column": 36,
+              "offset": 219
+            },
+            "indent": []
+          },
+          "value": "market.org.dtcc",
+          "alias": "market.org.dtcc"
+        }
+      ],
+      "anchors": {
+        "questions": {
+          "type": "header",
+          "text": "questions",
+          "value": "questions",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        },
+        "interpretations-of-dtcc": {
+          "type": "header",
+          "text": "interpretations of DTCC",
+          "value": "interpretations-of-dtcc",
+          "line": 14,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [
+        "1eh5yotupw8nldty63hp4h9"
+      ],
+      "parent": "g3h7xswu9c84b2bdwavyzjg",
+      "data": {}
+    },
+    "1eh5yotupw8nldty63hp4h9": {
+      "fname": "market.org.dtcc.rules",
+      "stub": true,
+      "vault": {
+        "fsPath": "vault"
+      },
+      "schemaStub": false,
+      "type": "note",
+      "updated": 1674172086515,
+      "created": 1674172086515,
+      "id": "1eh5yotupw8nldty63hp4h9",
+      "desc": "",
+      "links": [
+        {
+          "from": {
+            "fname": "market.org.sec.rules",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 8,
+              "column": 8,
+              "offset": 216
+            },
+            "end": {
+              "line": 8,
+              "column": 33,
+              "offset": 241
+            },
+            "indent": []
+          },
+          "value": "market.org.dtcc.rules",
+          "alias": "market.org.dtcc.rules"
+        }
+      ],
+      "anchors": {},
+      "children": [
+        "wa2kjbnaneaoamzz1kvcwj6"
+      ],
+      "parent": "ljizpq12ka8u6u8lf4qc7my",
+      "data": {},
+      "title": "Rules"
+    },
+    "wa2kjbnaneaoamzz1kvcwj6": {
+      "id": "wa2kjbnaneaoamzz1kvcwj6",
+      "title": "sr-dtc-2003-02",
+      "desc": "",
+      "updated": 1647185899764,
+      "created": 1647185892730,
+      "custom": {},
+      "fname": "market.org.dtcc.rules.sr-dtc-2003-02",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "c8963661ad0f13d9442bd2afb359c2e0",
+      "links": [
+        {
+          "from": {
+            "fname": "reddit.user.atobitt.house_of_cards",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 8,
+              "column": 29,
+              "offset": 675
+            },
+            "end": {
+              "line": 8,
+              "column": 69,
+              "offset": 715
+            },
+            "indent": []
+          },
+          "value": "market.org.dtcc.rules.sr-dtc-2003-02",
+          "alias": "market.org.dtcc.rules.sr-dtc-2003-02"
+        }
+      ],
+      "anchors": {
+        "links": {
+          "type": "header",
+          "text": "links",
+          "value": "links",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "1eh5yotupw8nldty63hp4h9",
+      "data": {}
+    },
+    "dt8yhk43k9jyei02751pp1n": {
+      "id": "dt8yhk43k9jyei02751pp1n",
+      "title": "DTC - Depository Trust Company",
+      "desc": "",
+      "updated": 1647186343284,
+      "created": 1647185845594,
+      "custom": {},
+      "fname": "market.org.dtc",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "477931c80f157ae8c1a1268aadefa883",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "market.org.dtc",
+            "id": "dt8yhk43k9jyei02751pp1n",
+            "vaultName": "vault"
+          },
+          "value": "market.articles.smithonstocks.part-7-illegal-naked-shorting",
+          "alias": "market.articles.smithonstocks.part-7-illegal-naked-shorting",
+          "position": {
+            "start": {
+              "line": 10,
+              "column": 3,
+              "offset": 125
+            },
+            "end": {
+              "line": 10,
+              "column": 66,
+              "offset": 188
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "market.articles.smithonstocks.part-7-illegal-naked-shorting"
+          }
+        },
+        {
+          "from": {
+            "fname": "market.articles.smithonstocks.part-7-illegal-naked-shorting",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 7,
+              "column": 17,
+              "offset": 559
+            },
+            "end": {
+              "line": 7,
+              "column": 35,
+              "offset": 577
+            },
+            "indent": []
+          },
+          "value": "market.org.dtc",
+          "alias": "market.org.dtc"
+        }
+      ],
+      "anchors": {
+        "questions": {
+          "type": "header",
+          "text": "questions",
+          "value": "questions",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        },
+        "interpretations-of-dtc": {
+          "type": "header",
+          "text": "interpretations of DTC",
+          "value": "interpretations-of-dtc",
+          "line": 15,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "g3h7xswu9c84b2bdwavyzjg",
+      "data": {}
+    },
+    "0pkt5rekxfszkjgf7o809uz": {
+      "id": "0pkt5rekxfszkjgf7o809uz",
+      "title": "CTFC",
+      "desc": "",
+      "updated": 1674171942449,
+      "created": 1674171724591,
+      "custom": {},
+      "fname": "market.org.ctfc",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "3e56e0a22a30c1c78582e1a44914a8f6",
+      "links": [
+        {
+          "from": {
+            "fname": "reddit.user.welp007.rostin_benham_ftx",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 12,
+              "column": 3,
+              "offset": 506
+            },
+            "end": {
+              "line": 12,
+              "column": 22,
+              "offset": 525
+            },
+            "indent": []
+          },
+          "value": "market.org.ctfc",
+          "alias": "market.org.ctfc"
+        }
+      ],
+      "anchors": {
+        "questions": {
+          "type": "header",
+          "text": "questions",
+          "value": "questions",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        },
+        "info": {
+          "type": "header",
+          "text": "Info",
+          "value": "info",
+          "line": 14,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "g3h7xswu9c84b2bdwavyzjg",
+      "data": {}
+    },
+    "nzeyp5c58k7fiksz2e75jrr": {
+      "id": "nzeyp5c58k7fiksz2e75jrr",
+      "title": "Cede and Co.",
+      "desc": "",
+      "updated": 1647187130617,
+      "created": 1647185845594,
+      "custom": {},
+      "fname": "market.org.cede_and_co",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "e57a67b0daa5499c0d82e1a854c2e021",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "market.org.cede_and_co",
+            "id": "nzeyp5c58k7fiksz2e75jrr",
+            "vaultName": "vault"
+          },
+          "value": "market.articles.smithonstocks.part-8-illegal-naked-shorting",
+          "alias": "market.articles.smithonstocks.part-8-illegal-naked-shorting",
+          "position": {
+            "start": {
+              "line": 10,
+              "column": 3,
+              "offset": 156
+            },
+            "end": {
+              "line": 10,
+              "column": 66,
+              "offset": 219
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "market.articles.smithonstocks.part-8-illegal-naked-shorting"
+          }
+        },
+        {
+          "from": {
+            "fname": "market.articles.smithonstocks.part-8-illegal-naked-shorting",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 7,
+              "column": 3,
+              "offset": 272
+            },
+            "end": {
+              "line": 7,
+              "column": 29,
+              "offset": 298
+            },
+            "indent": []
+          },
+          "value": "market.org.cede_and_co",
+          "alias": "market.org.cede_and_co"
+        },
+        {
+          "from": {
+            "fname": "reddit.user.atobitt.house_of_cards",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 14,
+              "column": 15,
+              "offset": 1105
+            },
+            "end": {
+              "line": 14,
+              "column": 41,
+              "offset": 1131
+            },
+            "indent": []
+          },
+          "value": "market.org.cede_and_co",
+          "alias": "market.org.cede_and_co"
+        }
+      ],
+      "anchors": {
+        "questions": {
+          "type": "header",
+          "text": "questions",
+          "value": "questions",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        },
+        "thoughts-cede-and-co": {
+          "type": "header",
+          "text": "thoughts Cede and Co.",
+          "value": "thoughts-cede-and-co",
+          "line": 15,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "g3h7xswu9c84b2bdwavyzjg",
+      "data": {}
+    },
+    "gb4gsuew3xe4rgp8irhxqbw": {
+      "fname": "market.definitions",
+      "stub": true,
+      "vault": {
+        "fsPath": "vault"
+      },
+      "schemaStub": false,
+      "type": "note",
+      "updated": 1674172086507,
+      "created": 1674172086507,
+      "id": "gb4gsuew3xe4rgp8irhxqbw",
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "imw6txq2y8v6cewa60whkp6",
+        "o682pw7ssce98nibqkqaoyi"
+      ],
+      "parent": "mdt39i0j2q0t3o1if2ix4p2",
+      "data": {},
+      "title": "Definitions"
+    },
+    "o682pw7ssce98nibqkqaoyi": {
+      "id": "o682pw7ssce98nibqkqaoyi",
+      "title": "Synthetic Long",
+      "desc": "",
+      "updated": 1646956157240,
+      "created": 1646956150171,
+      "custom": {},
+      "fname": "market.definitions.synthetic_long",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "663010460d749fb552e06ee895913a16",
+      "links": [
+        {
+          "from": {
+            "fname": "reddit.user.atobitt.the_smoking_gun",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 10,
+              "column": 3,
+              "offset": 642
+            },
+            "end": {
+              "line": 10,
+              "column": 40,
+              "offset": 679
+            },
+            "indent": []
+          },
+          "value": "market.definitions.synthetic_long",
+          "alias": "market.definitions.synthetic_long"
+        }
+      ],
+      "anchors": {},
+      "children": [],
+      "parent": "gb4gsuew3xe4rgp8irhxqbw",
+      "data": {}
+    },
+    "imw6txq2y8v6cewa60whkp6": {
+      "id": "imw6txq2y8v6cewa60whkp6",
+      "title": "Naked Short",
+      "desc": "",
+      "updated": 1646090410526,
+      "created": 1646090194852,
+      "custom": {},
+      "fname": "market.definitions.nakedshort",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "c2dce3b2f22fda0cf3b290dc9a12c476",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "gb4gsuew3xe4rgp8irhxqbw",
+      "data": {}
+    },
+    "us8zzgjebz77i7cpq84en1a": {
+      "fname": "journalism",
+      "stub": true,
+      "vault": {
+        "fsPath": "vault"
+      },
+      "schemaStub": false,
+      "type": "note",
+      "updated": 1674172086506,
+      "created": 1674172086506,
+      "id": "us8zzgjebz77i7cpq84en1a",
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "l0kz882g3sk58abefjfqiww"
+      ],
+      "parent": "6lcyer76k269vga1shbjgqm",
+      "data": {},
+      "title": "Journalism"
+    },
+    "l0kz882g3sk58abefjfqiww": {
+      "fname": "journalism.principles",
+      "stub": true,
+      "vault": {
+        "fsPath": "vault"
+      },
+      "schemaStub": false,
+      "type": "note",
+      "updated": 1674172086506,
+      "created": 1674172086506,
+      "id": "l0kz882g3sk58abefjfqiww",
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "prg55xve7cw78z1hribe5v1"
+      ],
+      "parent": "us8zzgjebz77i7cpq84en1a",
+      "data": {},
+      "title": "Principles"
+    },
+    "prg55xve7cw78z1hribe5v1": {
+      "id": "prg55xve7cw78z1hribe5v1",
+      "title": "5 Ws and H",
+      "desc": "",
+      "updated": 1646089659243,
+      "created": 1646089525836,
+      "custom": {},
+      "fname": "journalism.principles.5-ws-and-h",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "cfe2d011f750da77643865e68dae7483",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "l0kz882g3sk58abefjfqiww",
+      "data": {}
+    }
+  },
+  "domains": [
+    {
+      "id": "6lcyer76k269vga1shbjgqm",
+      "title": "SuperStonk-o-dex",
+      "desc": "",
+      "updated": 1648244499199,
+      "created": 1646089977308,
+      "custom": {
+        "nav_order": 0,
+        "permalink": "/"
+      },
+      "fname": "root",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "695eeb6141177c579b0dc3b1d621aead",
+      "links": [],
+      "anchors": {
+        "what-is-superstonk-o-dex": {
+          "type": "header",
+          "text": "What is SuperStonk-o-dex?",
+          "value": "what-is-superstonk-o-dex",
+          "line": 7,
+          "column": 0,
+          "depth": 2
+        },
+        "frequently-asked-questions-faqs": {
+          "type": "header",
+          "text": "Frequently asked questions (FAQs)",
+          "value": "frequently-asked-questions-faqs",
+          "line": 19,
+          "column": 0,
+          "depth": 2
+        },
+        "the-original-thesis": {
+          "type": "header",
+          "text": "The original thesis",
+          "value": "the-original-thesis",
+          "line": 21,
+          "column": 0,
+          "depth": 2
+        },
+        "where-we-are-now": {
+          "type": "header",
+          "text": "Where we are now",
+          "value": "where-we-are-now",
+          "line": 23,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [
+        "us8zzgjebz77i7cpq84en1a",
+        "mdt39i0j2q0t3o1if2ix4p2",
+        "m3lwl2ff6f5b310lg2zer5h"
+      ],
+      "parent": null,
+      "data": {},
+      "body": "## What is SuperStonk-o-dex?\nThis is a codex of information swirling around **GameStop - GME**, and the interaction of the company with the financial system.\n\n[What is a codex?](https://duckduckgo.com/?q=what+is+a+codex)\n> A manuscript volume, complete or fragmentary, as of a classic work or of the sacred Scriptures.\n\nScriptures, what scriptures? And, for what? And, what's a \"stonk\", anyway?\n\nA **stonk** is just slang for a stock market security, or simply, a stock.\n\nAnd, well, we like the stonk. GME is believed to be the Super Stonk. Seriously. These are the scriptures.\n\n## Frequently asked questions (FAQs)\n\n## The original thesis\n\n## Where we are now\n"
+    }
+  ],
+  "noteIndex": {
+    "id": "6lcyer76k269vga1shbjgqm",
+    "title": "SuperStonk-o-dex",
+    "desc": "",
+    "updated": 1648244499199,
+    "created": 1646089977308,
+    "custom": {
+      "nav_order": 0,
+      "permalink": "/"
+    },
+    "fname": "root",
+    "type": "note",
+    "vault": {
+      "fsPath": "vault"
+    },
+    "contentHash": "695eeb6141177c579b0dc3b1d621aead",
+    "links": [],
+    "anchors": {
+      "what-is-superstonk-o-dex": {
+        "type": "header",
+        "text": "What is SuperStonk-o-dex?",
+        "value": "what-is-superstonk-o-dex",
+        "line": 7,
+        "column": 0,
+        "depth": 2
+      },
+      "frequently-asked-questions-faqs": {
+        "type": "header",
+        "text": "Frequently asked questions (FAQs)",
+        "value": "frequently-asked-questions-faqs",
+        "line": 19,
+        "column": 0,
+        "depth": 2
+      },
+      "the-original-thesis": {
+        "type": "header",
+        "text": "The original thesis",
+        "value": "the-original-thesis",
+        "line": 21,
+        "column": 0,
+        "depth": 2
+      },
+      "where-we-are-now": {
+        "type": "header",
+        "text": "Where we are now",
+        "value": "where-we-are-now",
+        "line": 23,
+        "column": 0,
+        "depth": 2
+      }
+    },
+    "children": [
+      "us8zzgjebz77i7cpq84en1a",
+      "mdt39i0j2q0t3o1if2ix4p2",
+      "m3lwl2ff6f5b310lg2zer5h"
+    ],
+    "parent": null,
+    "data": {},
+    "body": "## What is SuperStonk-o-dex?\nThis is a codex of information swirling around **GameStop - GME**, and the interaction of the company with the financial system.\n\n[What is a codex?](https://duckduckgo.com/?q=what+is+a+codex)\n> A manuscript volume, complete or fragmentary, as of a classic work or of the sacred Scriptures.\n\nScriptures, what scriptures? And, for what? And, what's a \"stonk\", anyway?\n\nA **stonk** is just slang for a stock market security, or simply, a stock.\n\nAnd, well, we like the stonk. GME is believed to be the Super Stonk. Seriously. These are the scriptures.\n\n## Frequently asked questions (FAQs)\n\n## The original thesis\n\n## Where we are now\n"
+  },
+  "vaults": [
+    {
+      "fsPath": "vault"
+    }
+  ]
+}

@@ -1,0 +1,386 @@
+{
+  "roots": [
+    {
+      "key": "6lcyer76k269vga1shbjgqm",
+      "title": "SuperStonk-o-dex",
+      "icon": null,
+      "hasTitleNumberOutlined": false,
+      "vaultName": "vault",
+      "children": [
+        {
+          "key": "us8zzgjebz77i7cpq84en1a",
+          "title": "Journalism",
+          "icon": "plusOutlined",
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "children": [
+            {
+              "key": "l0kz882g3sk58abefjfqiww",
+              "title": "Principles",
+              "icon": "plusOutlined",
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "children": [
+                {
+                  "key": "prg55xve7cw78z1hribe5v1",
+                  "title": "5 Ws and H",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "vault",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "mdt39i0j2q0t3o1if2ix4p2",
+          "title": "Market",
+          "icon": "plusOutlined",
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "children": [
+            {
+              "key": "umk7cwy5yd1inrdqwh9jczj",
+              "title": "Articles",
+              "icon": "plusOutlined",
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "children": [
+                {
+                  "key": "v6dxkvwuwag9tiwi9tv3ry7",
+                  "title": "Smithonstocks",
+                  "icon": "plusOutlined",
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "vault",
+                  "children": [
+                    {
+                      "key": "081alfl0f3tivrznraj00n5",
+                      "title": "Part 7 Illegal Naked Shorting -- SmithOnStocks",
+                      "icon": null,
+                      "hasTitleNumberOutlined": false,
+                      "vaultName": "vault",
+                      "children": []
+                    },
+                    {
+                      "key": "0per98y8zsx83kqj4lmmt6f",
+                      "title": "Part 8 Illegal Naked Shorting -- SmithOnStocks",
+                      "icon": null,
+                      "hasTitleNumberOutlined": false,
+                      "vaultName": "vault",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "gb4gsuew3xe4rgp8irhxqbw",
+              "title": "Definitions",
+              "icon": "plusOutlined",
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "children": [
+                {
+                  "key": "imw6txq2y8v6cewa60whkp6",
+                  "title": "Naked Short",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "vault",
+                  "children": []
+                },
+                {
+                  "key": "o682pw7ssce98nibqkqaoyi",
+                  "title": "Synthetic Long",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "vault",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "key": "d3g4066yq46abe7e0d0xszg",
+              "title": "Gme",
+              "icon": "plusOutlined",
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "children": [
+                {
+                  "key": "0mh7iw5dl6efxi4x6mdxrof",
+                  "title": "Theory",
+                  "icon": "plusOutlined",
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "vault",
+                  "children": [
+                    {
+                      "key": "31pliovif8r6yixz6a0ab24",
+                      "title": "GME Short Interest",
+                      "icon": null,
+                      "hasTitleNumberOutlined": false,
+                      "vaultName": "vault",
+                      "children": []
+                    },
+                    {
+                      "key": "ekdlfg1bfzfnay503dgvjcr",
+                      "title": "Naked Short",
+                      "icon": null,
+                      "hasTitleNumberOutlined": false,
+                      "vaultName": "vault",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "g3h7xswu9c84b2bdwavyzjg",
+              "title": "Org",
+              "icon": "plusOutlined",
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "children": [
+                {
+                  "key": "0pkt5rekxfszkjgf7o809uz",
+                  "title": "CTFC",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "vault",
+                  "children": []
+                },
+                {
+                  "key": "nzeyp5c58k7fiksz2e75jrr",
+                  "title": "Cede and Co.",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "vault",
+                  "children": []
+                },
+                {
+                  "key": "dt8yhk43k9jyei02751pp1n",
+                  "title": "DTC - Depository Trust Company",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "vault",
+                  "children": []
+                },
+                {
+                  "key": "ljizpq12ka8u6u8lf4qc7my",
+                  "title": "DTCC - Depository Trust and Clearing Corporation",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "vault",
+                  "children": [
+                    {
+                      "key": "1eh5yotupw8nldty63hp4h9",
+                      "title": "Rules",
+                      "icon": "plusOutlined",
+                      "hasTitleNumberOutlined": false,
+                      "vaultName": "vault",
+                      "children": [
+                        {
+                          "key": "wa2kjbnaneaoamzz1kvcwj6",
+                          "title": "sr-dtc-2003-02",
+                          "icon": null,
+                          "hasTitleNumberOutlined": false,
+                          "vaultName": "vault",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "ixgjctm8oulfp98sqy56cvd",
+                  "title": "NSCC - National Securities Clearing Corporation",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "vault",
+                  "children": []
+                },
+                {
+                  "key": "n14hk74wzagp3mbq4g1zn7p",
+                  "title": "Sec",
+                  "icon": "plusOutlined",
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "vault",
+                  "children": [
+                    {
+                      "key": "ohc5w3cnqvuqf1u06p97g9q",
+                      "title": "Reports",
+                      "icon": "plusOutlined",
+                      "hasTitleNumberOutlined": false,
+                      "vaultName": "vault",
+                      "children": []
+                    },
+                    {
+                      "key": "9knugf5xjmuvsej5uir8bj5",
+                      "title": "Rules",
+                      "icon": null,
+                      "hasTitleNumberOutlined": false,
+                      "vaultName": "vault",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "zc1mtgy2z6q7e71kfklotu5",
+              "title": "People",
+              "icon": "plusOutlined",
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "children": [
+                {
+                  "key": "c9m1uid9tcpmfkql9rj01yt",
+                  "title": "Ihor Dusaniwsky",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "vault",
+                  "children": []
+                },
+                {
+                  "key": "zxrnycrnt3nvnujvze9uu3p",
+                  "title": "Rostin Benham",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "vault",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "key": "gm19tt1sjkyyizwmq6t92nk",
+              "title": "Theory",
+              "icon": "plusOutlined",
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "children": [
+                {
+                  "key": "nrjh5t7vajey4qk9r77xlie",
+                  "title": "Synthetic or Counterfeit Shares",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "vault",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "m3lwl2ff6f5b310lg2zer5h",
+          "title": "Reddit",
+          "icon": "plusOutlined",
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "children": [
+            {
+              "key": "25yxns5f80n3wxg3fnuaaev",
+              "title": "User",
+              "icon": "plusOutlined",
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "children": [
+                {
+                  "key": "7nggcvcazsazsjlwxb8hgdr",
+                  "title": "Atobitt",
+                  "icon": "plusOutlined",
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "vault",
+                  "children": [
+                    {
+                      "key": "9qrbaqc61q0lngpoenupqee",
+                      "title": "A House of Cards (part 1) -- u/atobitt",
+                      "icon": null,
+                      "hasTitleNumberOutlined": false,
+                      "vaultName": "vault",
+                      "children": []
+                    },
+                    {
+                      "key": "08y3480e2sup0swp4dn7mtv",
+                      "title": "The Everything Short -- u/atobitt",
+                      "icon": null,
+                      "hasTitleNumberOutlined": false,
+                      "vaultName": "vault",
+                      "children": []
+                    },
+                    {
+                      "key": "fzpxum0pkku4dg0aimexck1",
+                      "title": "The Smoking Gun -- u/atobitt",
+                      "icon": null,
+                      "hasTitleNumberOutlined": false,
+                      "vaultName": "vault",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "key": "i07as6off8owdx0ok1lo9lm",
+                  "title": "Welp007",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "vault",
+                  "children": [
+                    {
+                      "key": "ifvyede4pl1s5acflf5m69a",
+                      "title": "Rostin Benham personally involved in FTX from the start",
+                      "icon": null,
+                      "hasTitleNumberOutlined": false,
+                      "vaultName": "vault",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "child2parent": {
+    "403": null,
+    "6lcyer76k269vga1shbjgqm": null,
+    "m3lwl2ff6f5b310lg2zer5h": "6lcyer76k269vga1shbjgqm",
+    "25yxns5f80n3wxg3fnuaaev": "m3lwl2ff6f5b310lg2zer5h",
+    "7nggcvcazsazsjlwxb8hgdr": "25yxns5f80n3wxg3fnuaaev",
+    "fzpxum0pkku4dg0aimexck1": "7nggcvcazsazsjlwxb8hgdr",
+    "08y3480e2sup0swp4dn7mtv": "7nggcvcazsazsjlwxb8hgdr",
+    "9qrbaqc61q0lngpoenupqee": "7nggcvcazsazsjlwxb8hgdr",
+    "i07as6off8owdx0ok1lo9lm": "25yxns5f80n3wxg3fnuaaev",
+    "ifvyede4pl1s5acflf5m69a": "i07as6off8owdx0ok1lo9lm",
+    "mdt39i0j2q0t3o1if2ix4p2": "6lcyer76k269vga1shbjgqm",
+    "d3g4066yq46abe7e0d0xszg": "mdt39i0j2q0t3o1if2ix4p2",
+    "0mh7iw5dl6efxi4x6mdxrof": "d3g4066yq46abe7e0d0xszg",
+    "31pliovif8r6yixz6a0ab24": "0mh7iw5dl6efxi4x6mdxrof",
+    "ekdlfg1bfzfnay503dgvjcr": "0mh7iw5dl6efxi4x6mdxrof",
+    "umk7cwy5yd1inrdqwh9jczj": "mdt39i0j2q0t3o1if2ix4p2",
+    "v6dxkvwuwag9tiwi9tv3ry7": "umk7cwy5yd1inrdqwh9jczj",
+    "0per98y8zsx83kqj4lmmt6f": "v6dxkvwuwag9tiwi9tv3ry7",
+    "081alfl0f3tivrznraj00n5": "v6dxkvwuwag9tiwi9tv3ry7",
+    "gm19tt1sjkyyizwmq6t92nk": "mdt39i0j2q0t3o1if2ix4p2",
+    "nrjh5t7vajey4qk9r77xlie": "gm19tt1sjkyyizwmq6t92nk",
+    "zc1mtgy2z6q7e71kfklotu5": "mdt39i0j2q0t3o1if2ix4p2",
+    "zxrnycrnt3nvnujvze9uu3p": "zc1mtgy2z6q7e71kfklotu5",
+    "c9m1uid9tcpmfkql9rj01yt": "zc1mtgy2z6q7e71kfklotu5",
+    "g3h7xswu9c84b2bdwavyzjg": "mdt39i0j2q0t3o1if2ix4p2",
+    "n14hk74wzagp3mbq4g1zn7p": "g3h7xswu9c84b2bdwavyzjg",
+    "9knugf5xjmuvsej5uir8bj5": "n14hk74wzagp3mbq4g1zn7p",
+    "ohc5w3cnqvuqf1u06p97g9q": "n14hk74wzagp3mbq4g1zn7p",
+    "ixgjctm8oulfp98sqy56cvd": "g3h7xswu9c84b2bdwavyzjg",
+    "ljizpq12ka8u6u8lf4qc7my": "g3h7xswu9c84b2bdwavyzjg",
+    "1eh5yotupw8nldty63hp4h9": "ljizpq12ka8u6u8lf4qc7my",
+    "wa2kjbnaneaoamzz1kvcwj6": "1eh5yotupw8nldty63hp4h9",
+    "dt8yhk43k9jyei02751pp1n": "g3h7xswu9c84b2bdwavyzjg",
+    "0pkt5rekxfszkjgf7o809uz": "g3h7xswu9c84b2bdwavyzjg",
+    "nzeyp5c58k7fiksz2e75jrr": "g3h7xswu9c84b2bdwavyzjg",
+    "gb4gsuew3xe4rgp8irhxqbw": "mdt39i0j2q0t3o1if2ix4p2",
+    "o682pw7ssce98nibqkqaoyi": "gb4gsuew3xe4rgp8irhxqbw",
+    "imw6txq2y8v6cewa60whkp6": "gb4gsuew3xe4rgp8irhxqbw",
+    "us8zzgjebz77i7cpq84en1a": "6lcyer76k269vga1shbjgqm",
+    "l0kz882g3sk58abefjfqiww": "us8zzgjebz77i7cpq84en1a",
+    "prg55xve7cw78z1hribe5v1": "l0kz882g3sk58abefjfqiww"
+  }
+}
